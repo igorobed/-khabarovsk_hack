@@ -1,1 +1,1 @@
-# -khabarovsk_hack
+# khabarovsk_hack
