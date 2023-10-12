@@ -2,7 +2,7 @@
 
 Решение - analyzer.ipynb
 
-Сертификат - certificate.ipynb
+Сертификат - certificate.pdf
 
 Презентация решения - https://lodmedia.hb.bizmrg.com/presentations/1017664/1017987/Prezentaciya.pdf
 
